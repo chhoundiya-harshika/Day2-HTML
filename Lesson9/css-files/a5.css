@@ -1,0 +1,22 @@
+.shadow{
+    transition: box-shadow 0 , 0 ,0 0.15;
+}
+
+.a1{
+    border: 50%;
+    height: 30px;
+    width:30px;
+}
+.a{
+    color:grey;
+    font-family: Arial;
+    font-size: small;
+}
+.b{
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    height: 40px;
+    width:68px
+  
+}
